@@ -1,0 +1,7 @@
+*.pyc
+*.ckpt
+tensorboard_logs/
+stp3/models/__pycache__
+stp3/datas/__pycache__
+imgs
+*.png
